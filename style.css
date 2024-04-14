@@ -1,0 +1,14 @@
+  * {
+    margin: 0;
+    padding: 0;
+    background-color: #f30d0d;
+}
+div {
+  position: fixed;
+  width: 200px;
+  height: 200px;
+  cursor: pointer;
+  background-color: #000;
+  top: 150px;
+  left: 150px;
+}
